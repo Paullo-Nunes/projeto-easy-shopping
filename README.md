@@ -19,4 +19,4 @@
 <br>
 ###Vídeos das Funcionalidades
 <br>
-<iframe src="https://embed.screenapp.io/app/v/JGR3AUaRHT?embed=true" width="100%" height="960" frameborder="0" allowfullscreen></iframe>
+<video src="https://embed.screenapp.io/app/v/JGR3AUaRHT?embed=true" width="100%" height="960" frameborder="0" allowfullscreen></video>
