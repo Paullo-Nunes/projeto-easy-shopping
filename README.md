@@ -12,7 +12,8 @@
 <br>
 <br>
 ##Tecnologias Utilizadas
-<p>HTML</p>
+[!HTML]<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/50dbfbbe-0d96-4f28-9dbe-f827f6d51ce9" />
+
 <P>CSS</P>
 <br>
 ###Vídeos das Funcionalidades
