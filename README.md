@@ -9,3 +9,11 @@
 <br>
 <br>
 <img src="https://github.com/Paullo-Nunes/projeto-easy-shopping/blob/main/img/projeto-shopping-responsivo.png?raw=true">
+<br>
+<br>
+##Tecnologias Utilizadas
+<p>HTML</p>
+<P>CSS</P>
+<br>
+###Vídeos das Funcionalidades
+<video src="img/v\303\255deo-projeto-shopping.mp4">
