@@ -19,5 +19,4 @@
 <br>
 ###Vídeos das Funcionalidades
 <br>
-<a href="./img/vídeo-projeto-shopping.mp4">vídeo 1</a>
 
