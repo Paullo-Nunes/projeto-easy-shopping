@@ -19,6 +19,5 @@
 <br>
 ###Vídeos das Funcionalidades
 <br>
-<video width="320" height="240" controls>
-  <source src="" type="video/mp4">
-</video>
+<a href="./img/vídeo-projeto-shopping.mp4">vídeo 1</a>
+
