@@ -12,8 +12,11 @@
 <br>
 <br>
 ##Tecnologias Utilizadas
-<p>HTML</p>
-<P>CSS</P>
+<br>
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/50dbfbbe-0d96-4f28-9dbe-f827f6d51ce9" />
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/01ce318d-c8b3-4da6-968c-cf0a7e895bb4" />
+
 <br>
 ###Vídeos das Funcionalidades
-<video src="img/v\303\255deo-projeto-shopping.mp4">
+<br>
+
